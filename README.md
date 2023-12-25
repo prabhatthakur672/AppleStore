@@ -6,7 +6,9 @@ The website serves as a platform to explore and learn about various Apple produc
 Technologies Used-
 
 HTML5,CSS3,JavaScript
+
 Bootstrap: Used for responsive design elements.
+
 itHub Pages: Hosting platform for the live website.
 
 Setup-
@@ -18,4 +20,4 @@ Open the index.html file in your web browser.
 
 License-This project is licensed under the MIT License.
 
-Live Demo-Explore the live website here 
+Live Demo-Explore the live website here https://prabhatthakur672.github.io/AppleStore/
