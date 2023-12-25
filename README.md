@@ -2,7 +2,8 @@ Welcome to the Apple Products website repository! This project aims to showcase 
 
 Overview-
 
-This website is multi-pages website(Home pages, Products psge, Contact Us page)
+This website is multi-pages website(Home pages, Products psge, Contact Us page).
+
 The website serves as a platform to explore and learn about various Apple products, including iPhones, iPads, MacBooks, Apple Watches, AirPods, and more. Each product is presented with detailed descriptions, specifications, and images to provide users with a comprehensive view.
 
 Technologies Used-
