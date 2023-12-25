@@ -9,7 +9,7 @@ HTML5,CSS3,JavaScript
 
 Bootstrap: Used for responsive design elements.
 
-itHub Pages: Hosting platform for the live website.
+GitHub Pages: Hosting platform for the live website.
 
 Setup-
 To run the website locally:
